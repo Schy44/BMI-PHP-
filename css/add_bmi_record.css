@@ -1,0 +1,61 @@
+/* General body styles */
+body {
+    background-color: #f8f9fa;
+    font-family: Arial, sans-serif;
+}
+
+/* Container styling */
+.container {
+    margin-top: 50px;
+    padding: 20px;
+    background-color: #ffffff;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    max-width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/* Form styling */
+form {
+    display: flex;
+    flex-direction: column;
+}
+
+/* Label styling */
+label {
+    font-weight: bold;
+    margin-top: 10px;
+}
+
+/* Input and button styling */
+input[type="number"],
+button {
+    padding: 10px;
+    margin-top: 5px;
+    border-radius: 4px;
+    border: 1px solid #ccc;
+}
+
+button {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #0056b3;
+}
+
+/* Alert styling */
+.alert {
+    padding: 10px;
+    margin-top: 10px;
+    border-radius: 4px;
+}
+
+.alert-info {
+    background-color: #d9edf7;
+    color: #31708f;
+}

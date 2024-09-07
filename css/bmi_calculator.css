@@ -1,0 +1,27 @@
+body {
+    background-color: #f8f9fa;
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.form-group {
+    margin-bottom: 15px;
+}
+
+.btn {
+    margin-right: 10px;
+}
+
+.img-container {
+    margin-top: 20px;
+}
+
+img.img-fluid {
+    max-width: 100%;
+    height: auto;
+}
