@@ -1,3 +1,3 @@
-" http://localhost/bmi-php/php/login.php "
+" http://localhost/BMI-PHP/php/login.php "
 
 this is the entry point 
